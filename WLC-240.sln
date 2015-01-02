@@ -6,6 +6,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MjpegProcessorTestWinForms", "MjpegProcessorTestWinForms\MjpegProcessorTestWinForms.csproj", "{E4076859-8626-4741-BDA6-67AE801E3FF9}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{175ADA72-4CD9-4FF8-95C7-A817AE7BF0FF}"
+	ProjectSection(SolutionItems) = preProject
+		MJPEG Decoder - License.htm = MJPEG Decoder - License.htm
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
