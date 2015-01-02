@@ -1,0 +1,4 @@
+E:\WLC240\MJPEG\MjpegProcessor\bin\Release\MjpegProcessor.dll
+E:\WLC240\MJPEG\MjpegProcessor\bin\Release\MjpegProcessor.pdb
+E:\WLC240\MJPEG\MjpegProcessor\obj\Release\MjpegProcessor.dll
+E:\WLC240\MJPEG\MjpegProcessor\obj\Release\MjpegProcessor.pdb

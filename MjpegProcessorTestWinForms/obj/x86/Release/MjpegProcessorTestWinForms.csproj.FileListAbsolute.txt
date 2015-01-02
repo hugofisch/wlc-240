@@ -1,0 +1,10 @@
+E:\WLC240\MJPEG\MjpegProcessorTestWinForms\bin\Release\MjpegProcessorTestWinForms.exe
+E:\WLC240\MJPEG\MjpegProcessorTestWinForms\bin\Release\MjpegProcessorTestWinForms.pdb
+E:\WLC240\MJPEG\MjpegProcessorTestWinForms\bin\Release\MjpegProcessor.dll
+E:\WLC240\MJPEG\MjpegProcessorTestWinForms\bin\Release\MjpegProcessor.pdb
+E:\WLC240\MJPEG\MjpegProcessorTestWinForms\obj\x86\Release\MjpegProcessorTestWinForms.csprojResolveAssemblyReference.cache
+E:\WLC240\MJPEG\MjpegProcessorTestWinForms\obj\x86\Release\MjpegProcessorTestWinForms.Form1.resources
+E:\WLC240\MJPEG\MjpegProcessorTestWinForms\obj\x86\Release\MjpegProcessorTestWinForms.Properties.Resources.resources
+E:\WLC240\MJPEG\MjpegProcessorTestWinForms\obj\x86\Release\MjpegProcessorTestWinForms.csproj.GenerateResource.Cache
+E:\WLC240\MJPEG\MjpegProcessorTestWinForms\obj\x86\Release\MjpegProcessorTestWinForms.exe
+E:\WLC240\MJPEG\MjpegProcessorTestWinForms\obj\x86\Release\MjpegProcessorTestWinForms.pdb
