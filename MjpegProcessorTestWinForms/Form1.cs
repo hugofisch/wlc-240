@@ -3,12 +3,15 @@ using System.Windows.Forms;
 using MjpegProcessor;
 using System.Net.Sockets;
 
+
+
 namespace MjpegProcessorTestWinForms
 {
 	public partial class Form1 : Form
 	{
         private TcpClient client;
         private NetworkStream stream;
+        const int cSleeptime=500;
 		public Form1()
 		{
 			InitializeComponent();
@@ -94,7 +97,7 @@ namespace MjpegProcessorTestWinForms
             stream.WriteByte(0x31);
             stream.WriteByte(0x32);
             stream.WriteByte(0x31);
-            System.Threading.Thread.Sleep(300);
+            System.Threading.Thread.Sleep(cSleeptime);
             stream.WriteByte(0x31);
             stream.WriteByte(0x30);
             stream.WriteByte(0x32);
@@ -107,6 +110,11 @@ namespace MjpegProcessorTestWinForms
             stream.WriteByte(0x32);
             stream.WriteByte(0x32);
             stream.WriteByte(0x32);
+            System.Threading.Thread.Sleep(cSleeptime);
+            stream.WriteByte(0x31);
+            stream.WriteByte(0x30);
+            stream.WriteByte(0x32);
+            stream.WriteByte(0x30);
         }
 
         private void bntLeft_Click(object sender, EventArgs e)
@@ -115,6 +123,11 @@ namespace MjpegProcessorTestWinForms
             stream.WriteByte(0x32);
             stream.WriteByte(0x32);
             stream.WriteByte(0x31);
+            System.Threading.Thread.Sleep(cSleeptime);
+            stream.WriteByte(0x31);
+            stream.WriteByte(0x30);
+            stream.WriteByte(0x32);
+            stream.WriteByte(0x30);
         }
 
         private void bntRight_Click(object sender, EventArgs e)
@@ -123,6 +136,11 @@ namespace MjpegProcessorTestWinForms
             stream.WriteByte(0x31);
             stream.WriteByte(0x32);
             stream.WriteByte(0x32);
+            System.Threading.Thread.Sleep(cSleeptime);
+            stream.WriteByte(0x31);
+            stream.WriteByte(0x30);
+            stream.WriteByte(0x32);
+            stream.WriteByte(0x30);
         }
 
         private void bntStop_Click(object sender, EventArgs e)

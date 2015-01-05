@@ -8,3 +8,13 @@ E:\WLC240\MJPEG\MjpegProcessorTestWinForms\obj\x86\Debug\MjpegProcessorTestWinFo
 E:\WLC240\MJPEG\MjpegProcessorTestWinForms\obj\x86\Debug\MjpegProcessorTestWinForms.csproj.GenerateResource.Cache
 E:\WLC240\MJPEG\MjpegProcessorTestWinForms\obj\x86\Debug\MjpegProcessorTestWinForms.exe
 E:\WLC240\MJPEG\MjpegProcessorTestWinForms\obj\x86\Debug\MjpegProcessorTestWinForms.pdb
+E:\WLC240\wlc-240\MjpegProcessorTestWinForms\obj\x86\Debug\MjpegProcessorTestWinForms.exe
+E:\WLC240\wlc-240\MjpegProcessorTestWinForms\obj\x86\Debug\MjpegProcessorTestWinForms.pdb
+E:\WLC240\wlc-240\MjpegProcessorTestWinForms\bin\Debug\MjpegProcessorTestWinForms.exe
+E:\WLC240\wlc-240\MjpegProcessorTestWinForms\bin\Debug\MjpegProcessorTestWinForms.pdb
+E:\WLC240\wlc-240\MjpegProcessorTestWinForms\bin\Debug\MjpegProcessor.dll
+E:\WLC240\wlc-240\MjpegProcessorTestWinForms\bin\Debug\MjpegProcessor.pdb
+E:\WLC240\wlc-240\MjpegProcessorTestWinForms\obj\x86\Debug\MjpegProcessorTestWinForms.csprojResolveAssemblyReference.cache
+E:\WLC240\wlc-240\MjpegProcessorTestWinForms\obj\x86\Debug\MjpegProcessorTestWinForms.Form1.resources
+E:\WLC240\wlc-240\MjpegProcessorTestWinForms\obj\x86\Debug\MjpegProcessorTestWinForms.Properties.Resources.resources
+E:\WLC240\wlc-240\MjpegProcessorTestWinForms\obj\x86\Debug\MjpegProcessorTestWinForms.csproj.GenerateResource.Cache

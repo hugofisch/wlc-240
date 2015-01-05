@@ -2,3 +2,8 @@ E:\WLC240\MJPEG\MjpegProcessor\bin\Debug\MjpegProcessor.dll
 E:\WLC240\MJPEG\MjpegProcessor\bin\Debug\MjpegProcessor.pdb
 E:\WLC240\MJPEG\MjpegProcessor\obj\Debug\MjpegProcessor.dll
 E:\WLC240\MJPEG\MjpegProcessor\obj\Debug\MjpegProcessor.pdb
+E:\WLC240\wlc-240\MjpegProcessor\bin\Debug\MjpegProcessor.dll
+E:\WLC240\wlc-240\MjpegProcessor\bin\Debug\MjpegProcessor.pdb
+E:\WLC240\wlc-240\MjpegProcessor\obj\Debug\MjpegProcessor.csprojResolveAssemblyReference.cache
+E:\WLC240\wlc-240\MjpegProcessor\obj\Debug\MjpegProcessor.dll
+E:\WLC240\wlc-240\MjpegProcessor\obj\Debug\MjpegProcessor.pdb
